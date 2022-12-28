@@ -3,7 +3,7 @@ import requests
 import markups as nav
 from PIL import Image
 
-bot = Bot(token = "5611032277:AAGSzCM2yqOXbeB5mIg2wfaOKHn0yTdGH8k")
+bot = Bot(token = "bot token here")
 db = Dispatcher(bot)
 
 style = 'candy'
